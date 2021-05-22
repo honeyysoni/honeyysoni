@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Honey Soni</h1>
 
 ### I'm a Student, Undergraduate, Developer!
-<p align="left"> <a href="https://twitter.com/Honeyyyysonii" target="blank"><img src="https://img.shields.io/twitter/follow/raahultanna?logo=twitter&style=for-the-badge" alt="raahultanna" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Honeyyyysonii" target="blank"><img src="https://img.shields.io/twitter/follow/honeyysoni?logo=twitter&style=for-the-badge" alt="honeyysoni" /></a> </p>
 
 <!--
 **raahultanna/raahultanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
