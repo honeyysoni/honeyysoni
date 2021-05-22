@@ -33,6 +33,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=honeyysoni.honeyysoni" alt="Visitors">                    
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyysoni&layout=compact)](https://github.com/raahultanna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyysoni&layout=compact)](https://github.com/honeyysoni/github-readme-stats)
 
 
