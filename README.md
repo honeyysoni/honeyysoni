@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Honey Soni</h1>
 
 ### I'm a Student, Undergraduate, Developer!
+<p align="left"> <a href="https://twitter.com/Honeyyyysonii" target="blank"><img src="https://img.shields.io/twitter/follow/raahultanna?logo=twitter&style=for-the-badge" alt="raahultanna" /></a> </p>
 
 <!--
 **raahultanna/raahultanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -15,6 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sonihoney0905@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I suck at humour!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=honeyysoni&label=Profile%20views&color=0e75b6&style=flat" alt="raahultanna" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=honeyysoni" alt="honeyysoni" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
