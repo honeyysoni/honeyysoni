@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java and Python!
 - 📫 How to reach me: sonihoney0905@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I'm a suck at humour!
+- ⚡ Fun fact: I suck at humour!
 
 
 <h3 align="left">Connect with me:</h3>
